@@ -1,0 +1,38 @@
+h1,h2{
+    color:red;
+    font-weight: bold;
+}
+
+ol{
+    color:brown;
+    line-height:45px;
+}
+
+.first-part{
+    font-weight: bold;
+    text-decoration: line-through;
+}
+
+.second-part,.third-part{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.item{
+    text-decoration: underline;
+}
+
+.list{
+    letter-spacing: 4px;
+    color:brown;
+}
+
+p{
+    color:brown;
+}
+
+.anchor{
+    text-decoration: none;
+    background-color: yellow;
+    color:red;
+}
